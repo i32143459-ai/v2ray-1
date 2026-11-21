@@ -1,5 +1,4 @@
 #!/bin/bash
-# forum: https://1024.day
 
 # 确保以root用户运行
 if [[ $EUID -ne 0 ]]; then
